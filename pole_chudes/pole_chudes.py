@@ -6,13 +6,15 @@ def reading_from_file():
     return l
 
 def choice_of_questions(l):
-    question_1 = random.choice(l).split(': ')
-    question_2 = random.choice(l).split(': ')
-    question_3 = random.choice(l).split(': ')
-    while question_2 == question_1:
-        question_2 = random.choice(l).split(': ')
-    while question_3 == question_1 or question_3 == question_2:
-        question_3 = random.choice(l).split(': ')
+    i = random.randrange(len(l))
+    question_1 = l[i].split(': ')
+    l.remove(l[i])
+    i = random.randrange(len(l))
+    question_2 = l[i].split(': ')
+    l.remove(l[i])
+    i = random.randrange(len(l))
+    question_3 = l[i].split(': ')
+    l.remove(l[i])
     questions = (question_1, question_2, question_3)
     return questions
 

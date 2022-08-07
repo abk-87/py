@@ -1,0 +1,10 @@
+question: The largest country in Africa by area.; answers: Algeria Congo Egypt Sudan; correct: Algeria
+question: Italian football club, whose nickname is "Old lady".; answers: Inter Milan Juventus Roma; correct: Juventus
+question: Famous German composer who wrote the "Moonlight Sonata".; answers: Bach Beethoven Strauss Handel; correct: Beethoven
+question: Cosmonaut who became the first human to journey into outer space.; answers: Gagarin Titov Leonov Tereshkova; correct: Gagarin
+question: Finnish software engineer, creator of the Linux kernel.; answers: Stroustrup Torvalds Ritchie Gates; correct: Torvalds
+question: The capital of Hungary.; answers: Prague Belgrade Copenhagen Budapest; correct: Budapest
+question: A person who plans, designs and oversees the construction of buildings.; answers: Engineer Architect Constructor Developer; correct: Architect
+question: The ancient Greek goddess of love and beauty.; answers: Aphrodite Athena Hera Demeter; correct: Aphrodite
+question: The title of the head of the Armenian Apostolic Church.; answers: Pope Patriarch Catholicos Metropolitan; correct: Catholicos
+question: The first Roman emperor, reigning from 27 BC until 14 AD.; answers: Octavian Neron Caligulla Tiberius; correct: Octavian
